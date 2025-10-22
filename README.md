@@ -6,3 +6,4 @@
  2nd Team Member: 20221069
  “Project 04 version2 completed”
  3rd Team Member: 정민혁
+ “3rdTeam Member: 20241076”
